@@ -1,16 +1,17 @@
 # pose_detection
 
-A new Flutter project.
+App que detecta poses em foto
 
-## Getting Started
+![foto funcionando](./pose_readme.jpeg)
 
-This project is a starting point for a Flutter application.
+## Rodando o projeto
 
-A few resources to get you started if this is your first Flutter project:
+### Baixando dependências
+```bash
+    flutter pub get
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Rodando o projeto
+```bash
+    flutter run -d <id_dispositivo>
+```
