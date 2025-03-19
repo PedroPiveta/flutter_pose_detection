@@ -28,7 +28,7 @@ App que detecta poses em foto
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/mafeboridgnon" target="_blank">
+      <a href="https://github.com/mafebordignon" target="_blank">
         <img src="https://github.com/mafebordignon.png" width="100px;" alt="User2"/>
         <br />
         <sub><b>Maria</b></sub>
